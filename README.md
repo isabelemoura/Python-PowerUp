@@ -1,4 +1,4 @@
-# Python Insights - Automação com Python 
+# Python PowerUp - Automação com Python 
 Iremos utilizar a biblioteca pyautogui para fazer autoiamações de tarefas do seu dia a dia.
 Vamos utilizar uma base de dados em CSV para pegar as informações dela e fazer na tela de cadastro de produtos sua automação linha a linha de todos os dados que nela existe.
 
